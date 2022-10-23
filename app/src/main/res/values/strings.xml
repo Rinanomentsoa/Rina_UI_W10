@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rina_UI_W10</string>
+    <string-array name="country_code">
+        <item>+261</item>
+        <item>+233</item>
+        <item>+234</item>
+        <item>+1268</item>
+        <item>+93</item>
+        <item>+255</item>
+        <item>+376</item>
+    </string-array>
+</resources>
